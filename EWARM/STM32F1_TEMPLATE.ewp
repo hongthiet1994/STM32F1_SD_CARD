@@ -2136,6 +2136,18 @@
             <name>$PROJ_DIR$\main.h</name>
         </file>
         <file>
+            <name>$PROJ_DIR$\stm3210b_eval.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\stm3210b_eval.h</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\stm32_eval_sdio_sd.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\stm32_eval_sdio_sd.h</name>
+        </file>
+        <file>
             <name>$PROJ_DIR$\stm32f10x_it.c</name>
         </file>
         <file>
