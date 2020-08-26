@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "D:\test\EWARM\settings\STM32F1_TEMPLATE.Debug.general.xcl" --backend -f "D:\test\EWARM\settings\STM32F1_TEMPLATE.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "D:\test_sd_card\EWARM\settings\STM32F1_TEMPLATE.Debug.general.xcl" --backend -f "D:\test_sd_card\EWARM\settings\STM32F1_TEMPLATE.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "D:\test\EWARM\settings\STM32F1_TEMPLATE.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\test\EWARM\settings\STM32F1_TEMPLATE.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "D:\test_sd_card\EWARM\settings\STM32F1_TEMPLATE.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\test_sd_card\EWARM\settings\STM32F1_TEMPLATE.Debug.driver.xcl" 
 }

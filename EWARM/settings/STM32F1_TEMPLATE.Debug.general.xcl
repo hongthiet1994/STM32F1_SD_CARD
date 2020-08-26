@@ -2,7 +2,7 @@
 
 "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armjlink2.dll" 
 
-"D:\test\EWARM\Debug\Exe\STM32F1_TEMPLATE.out" 
+"D:\test_sd_card\EWARM\Debug\Exe\STM32F1_TEMPLATE.out" 
 
 --plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
 
